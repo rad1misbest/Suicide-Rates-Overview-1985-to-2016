@@ -5,7 +5,7 @@ Analýza dat WHO o 6,7 milionu případů ve 101 zemích: jak se míra sebevraž
 **Nástroje:** PostgreSQL 17, pgAdmin 4, Power BI Desktop
 **Data:** [Kaggle – Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016) (27 820 řádků, 1 řádek = země + rok + pohlaví + věková skupina)
 
-![Dashboard](images/dashboard.png)
+
 
 ## Hlavní zjištění
 
